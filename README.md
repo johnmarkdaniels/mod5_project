@@ -1,5 +1,5 @@
 # The Flatiron School - Washington DC Campus
-# Module 5 Project
+## Module 5 Project
 
 This is the Module 5 Classification Project by Tim Mango and J. Mark Daniels.
 
